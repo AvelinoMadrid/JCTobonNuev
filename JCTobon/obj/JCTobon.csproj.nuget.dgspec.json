@@ -1,27 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\Desktop\\JCTobon2023-main\\JCTobon\\JCTobon.csproj": {}
+    "C:\\Users\\ansel\\Source\\Repos\\AvelinoMadrid\\JCTobonNuev\\JCTobon\\JCTobon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\Desktop\\JCTobon2023-main\\JCTobon\\JCTobon.csproj": {
+    "C:\\Users\\ansel\\Source\\Repos\\AvelinoMadrid\\JCTobonNuev\\JCTobon\\JCTobon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\Desktop\\JCTobon2023-main\\JCTobon\\JCTobon.csproj",
+        "projectUniqueName": "C:\\Users\\ansel\\Source\\Repos\\AvelinoMadrid\\JCTobonNuev\\JCTobon\\JCTobon.csproj",
         "projectName": "JCTobon",
-        "projectPath": "C:\\Users\\angel\\Desktop\\JCTobon2023-main\\JCTobon\\JCTobon.csproj",
-        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\Desktop\\JCTobon2023-main\\JCTobon\\obj\\",
+        "projectPath": "C:\\Users\\ansel\\Source\\Repos\\AvelinoMadrid\\JCTobonNuev\\JCTobon\\JCTobon.csproj",
+        "packagesPath": "C:\\Users\\ansel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ansel\\Source\\Repos\\AvelinoMadrid\\JCTobonNuev\\JCTobon\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ansel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -84,7 +87,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
