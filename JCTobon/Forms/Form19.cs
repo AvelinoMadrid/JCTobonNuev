@@ -74,7 +74,7 @@ namespace JCTobon.Forms
 
         public void cargarData()
         {
-            SqlDataAdapter sa = new SqlDataAdapter("select Tipo,Nombre,Talla,PrecioVenta,CantidadPiezas,Marca,Total,UtilidadEscuela,UtilidadJCTobon,Fecha from Ventas ", con);
+            SqlDataAdapter sa = new SqlDataAdapter("Select ID,Tipo,Nombre,Talla,PrecioVenta,CantidadPiezas,Marca,Total,UtilidadEscuela,UtilidadJCTobon,Fecha from Ventas ", con);
             DataTable dt = new DataTable();
             sa.Fill(dt);
             this.dataGridView1.DataSource = dt;

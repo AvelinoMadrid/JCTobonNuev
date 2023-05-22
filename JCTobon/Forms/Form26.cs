@@ -68,7 +68,7 @@ namespace JCTobon.Forms
 
     }
 
-    private void AgVenta_UpdateEventHandler(object sender, Form28.UpdateEventArgs args)
+      private void AgVenta_UpdateEventHandler(object sender, Form28.UpdateEventArgs args)
         {
             cargarData();
         }
