@@ -1,0 +1,826 @@
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.exe
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll.config
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.deps.json
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.runtimeconfig.json
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\BarcodeStandard.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.ResolveComReference.cache
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CopyComplete
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.genruntimeconfig.cache
+C:\Users\ansel\source\repos\JCTobon\JCTobon\obj\Debug\net6.0-windows\ref\JCTobon.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.exe
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll.config
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.deps.json
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.runtimeconfig.json
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\BarcodeStandard.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.ResolveComReference.cache
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.VentaValidada.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CopyComplete
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\JCTobon.genruntimeconfig.cache
+C:\Users\Barco Usuario\Desktop\JCTobon\JCTobon\obj\Debug\net6.0-windows\ref\JCTobon.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\JCTobon.exe
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll.config
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\JCTobon.deps.json
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\JCTobon.runtimeconfig.json
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\BarcodeStandard.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.ResolveComReference.cache
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.VentaValidada.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CopyComplete
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\JCTobon.genruntimeconfig.cache
+C:\Users\Barco Usuario\Desktop\JCTobon15\JCTobon\obj\Debug\net6.0-windows\ref\JCTobon.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.exe
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll.config
+C:\Users\ansel\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.deps.json
+C:\Users\ansel\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.runtimeconfig.json
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\BarcodeStandard.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.ResolveComReference.cache
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.VentaValidada.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\ansel\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CopyComplete
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\ansel\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\ansel\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.genruntimeconfig.cache
+C:\Users\ansel\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\ref\JCTobon.dll
+<<<<<<< HEAD
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.exe
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll.config
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.deps.json
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.runtimeconfig.json
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\BarcodeStandard.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.ResolveComReference.cache
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.VentaValidada.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CopyComplete
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.genruntimeconfig.cache
+C:\Users\Barco Usuario\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\ref\JCTobon.dll
+=======
+>>>>>>> 80ed02cdfc13ba172be57613a0d36c704601bf34
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.exe
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll.config
+C:\Users\Barco\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.deps.json
+C:\Users\Barco\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.runtimeconfig.json
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\BarcodeStandard.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.ResolveComReference.cache
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.VentaValidada.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\Barco\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CopyComplete
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\Barco\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Barco\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.genruntimeconfig.cache
+C:\Users\Barco\source\repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\ref\JCTobon.dll
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.ResolveComReference.cache
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.VentaValidada.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\Horusvivo\Source\Repos\AvelinoMadrid\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.ResolveComReference.cache
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.VentaValidada.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.exe
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll.config
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.deps.json
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.runtimeconfig.json
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\BarcodeStandard.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CopyComplete
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\JCTobon.genruntimeconfig.cache
+C:\Users\Horusvivo\Desktop\JCTobon\JCTobon2023\JCTobon\obj\Debug\net6.0-windows\ref\JCTobon.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.exe
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll.config
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.deps.json
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.runtimeconfig.json
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\BarcodeStandard.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.VentaValidada.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CopyComplete
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.genruntimeconfig.cache
+C:\Users\angel\Downloads\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\ref\JCTobon.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.exe
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll.config
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.deps.json
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.runtimeconfig.json
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\BarcodeStandard.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\itextsharp.xmlworker.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Form1.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form10.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form11.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form111.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form12.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form13.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form14.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form15.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form16.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form17.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form18.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form19.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form2.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form20.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form21.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form22.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form23.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form24.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form25.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form26.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form27.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form28.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form29.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form3.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form4.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form5.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form6.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form7.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form8.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.Form9.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.PreciosActualizar.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Forms.VentaValidada.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.Properties.Resources.resources
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.AssemblyInfo.cs
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.csproj.CopyComplete
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\refint\JCTobon.dll
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.pdb
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\JCTobon.genruntimeconfig.cache
+C:\Users\angel\Desktop\JCTobon2023-main\JCTobon\obj\Debug\net6.0-windows\ref\JCTobon.dll

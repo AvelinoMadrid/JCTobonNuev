@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JCTobon": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
