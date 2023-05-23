@@ -80,7 +80,7 @@ namespace JCTobon.Forms
                 con.Close();
 
                 con.Open();
-                SqlCommand query = new SqlCommand("SELECT ID, Tipo, Nombre, Talla, PrecioVenta, CantidadPiezas, Total, Fecha " +
+                SqlCommand query = new SqlCommand("SELECT ID, Tipo, Nombre, Talla, Marca, PrecioVenta, CantidadPiezas, Total, utilidadjctobon,Fecha " +
                                                   "FROM Ventas WHERE Folio = @folio", con);
                 query.Parameters.AddWithValue("@folio", folio);
 
@@ -100,20 +100,25 @@ namespace JCTobon.Forms
                                 string tipo = row["Tipo"].ToString();
                                 string nombre = row["Nombre"].ToString();
                                 string talla = row["Talla"].ToString();
+                                string marca = row["Marca"].ToString();
                                 int precioventa = int.Parse(row["PrecioVenta"].ToString());
                                 int cantidadpzas = int.Parse(row["CantidadPiezas"].ToString());
                                 int total = int.Parse(row["Total"].ToString());
+                                double utilidadtobon = double.Parse(row["utilidadjctobon"].ToString());
                                 DateTime fecha = DateTime.Parse(row["Fecha"].ToString());
 
-                                SqlCommand insertCommand = new SqlCommand("INSERT INTO ventasValidadas (Folio, Tipo, Nombre, Talla, PrecioVenta, CantidadPiezas, Total, Fecha) " +
-                                                                           "VALUES (@folio, @tipo, @nombre, @talla, @precioventa, @cantidadpzas, @total, @fecha)", con);
+
+                                SqlCommand insertCommand = new SqlCommand("INSERT INTO ventasValidadas (Folio, Tipo, Nombre, Marca,Talla, PrecioVenta, CantidadPiezas, Total, UtilidadJCTobon, Fecha) " +
+                                                                           "VALUES (@folio, @tipo, @nombre, @marca, @talla, @precioventa, @cantidadpzas, @total, @utilidadtobon, @fecha)", con);
                                 insertCommand.Parameters.AddWithValue("@folio", folio);
                                 insertCommand.Parameters.AddWithValue("@tipo", tipo);
                                 insertCommand.Parameters.AddWithValue("@nombre", nombre);
+                                insertCommand.Parameters.AddWithValue("@marca", marca);
                                 insertCommand.Parameters.AddWithValue("@talla", talla);
                                 insertCommand.Parameters.AddWithValue("@precioventa", precioventa);
                                 insertCommand.Parameters.AddWithValue("@cantidadpzas", cantidadpzas);
                                 insertCommand.Parameters.AddWithValue("@total", total);
+                                insertCommand.Parameters.AddWithValue("@utilidadtobon", utilidadtobon);
                                 insertCommand.Parameters.AddWithValue("@fecha", fecha);
                                 insertCommand.Transaction = transaction;
                                 insertCommand.ExecuteNonQuery();

@@ -43,7 +43,7 @@ namespace JCTobon.Forms
 
         public void cargarData()
         {
-            SqlDataAdapter sa = new SqlDataAdapter("Select Folio,Nombre,Talla,CantidadPiezas,PrecioVenta,Total,Fecha from ventasValidadas ", con);
+            SqlDataAdapter sa = new SqlDataAdapter("Select Folio,Nombre,Talla,Marca,CantidadPiezas,PrecioVenta,Total,UtilidadJCTobon,Fecha from ventasValidadas ", con);
             DataTable dt = new DataTable();
             sa.Fill(dt);
             this.dataGridView1.DataSource = dt;
@@ -204,6 +204,42 @@ namespace JCTobon.Forms
                             }
 
                             pdfDoc.Add(pTable);
+
+
+                            // obtenemos los totales 
+                            int totales = 0;
+                            double utilidadtobon;
+                            // creamos los acumuladores
+
+                            int acumuladoresVentasTotales = 0;
+                            double acumuladoresUtilidadesTobon = 0;
+
+
+                            foreach (DataGridViewRow rows in dataGridView1.Rows)
+                            {
+                                totales = int.Parse(rows.Cells[6].Value.ToString());
+                                utilidadtobon = double.Parse(rows.Cells[7].Value.ToString());
+
+                                // acumuladores de ventas totales
+                                acumuladoresVentasTotales = acumuladoresVentasTotales + totales;
+                                // acumuladores de Utilidades JCTobon 
+                                acumuladoresUtilidadesTobon = acumuladoresUtilidadesTobon + utilidadtobon;
+
+                            }
+
+
+                            Paragraph p1 = new Paragraph();
+                            p1.Alignment = Element.ALIGN_LEFT;
+                            p1.Add(" Total de Ventas             : " + acumuladoresVentasTotales.ToString());
+
+                            Paragraph p2 = new Paragraph();
+                            p2.Alignment = Element.ALIGN_LEFT;
+                            p2.Add(" Total de Utilidades JCTobon : " + acumuladoresUtilidadesTobon.ToString());
+
+
+                            pdfDoc.Add(p1);
+                            pdfDoc.Add(p2);
+
                         }
                     }
 
@@ -269,7 +305,7 @@ namespace JCTobon.Forms
             else
             {
                 con.Open();
-                SqlDataAdapter sa = new SqlDataAdapter("buscarMarcaMostrador", con);
+                SqlDataAdapter sa = new SqlDataAdapter("buscarMarcaVentasValidadas", con);
                 sa.SelectCommand.CommandType = CommandType.StoredProcedure;
                 sa.SelectCommand.Parameters.Add("@marca", SqlDbType.NVarChar, 150).Value = opcion;
                 DataTable dt = new DataTable();
@@ -296,7 +332,7 @@ namespace JCTobon.Forms
 
             dataGridView1.Columns["PrecioVenta"].DefaultCellStyle.Format = "C";
             dataGridView1.Columns["Total"].DefaultCellStyle.Format = "C";
-            
+            dataGridView1.Columns["UtilidadJCTobon"].DefaultCellStyle.Format = "C";
         }
 
         public void cargarNombre()
@@ -326,7 +362,7 @@ namespace JCTobon.Forms
             else
             {
                 con.Open();
-                SqlDataAdapter sa = new SqlDataAdapter("buscarStockUserEscuela", con);
+                SqlDataAdapter sa = new SqlDataAdapter("buscarNombreVentasValidadas", con);
                 sa.SelectCommand.CommandType = CommandType.StoredProcedure;
                 sa.SelectCommand.Parameters.Add("@nombre", SqlDbType.NVarChar, 150).Value = opcion;
                 DataTable dt = new DataTable();

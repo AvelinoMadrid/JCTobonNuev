@@ -40,7 +40,7 @@ namespace JCTobon.Forms
 
         public void cargarData()
         {
-            SqlDataAdapter sa = new SqlDataAdapter("Select Folio,Tipo,Nombre,Talla,CantidadPiezas,PrecioVenta,Total,Fecha from ventasValidadas ", con);
+            SqlDataAdapter sa = new SqlDataAdapter("Select Folio,Nombre,Talla,CantidadPiezas,PrecioVenta,Total,UtilidadJCTobon,Fecha from ventasValidadas ", con);
             DataTable dt = new DataTable();
             sa.Fill(dt);
             this.dataGridView1.DataSource = dt;
@@ -62,7 +62,7 @@ namespace JCTobon.Forms
 
             if (guardar.ShowDialog() == DialogResult.OK)
             {
-                string contenidoHTML = Properties.Resources.nueva.ToString();
+                string contenidoHTML = Properties.Resources.Ventas.ToString();
 
                 // Obtener la fecha actual
                 DateTime currentDate = DateTime.Now;
@@ -148,21 +148,31 @@ namespace JCTobon.Forms
                             int acumulador = 0;
                             int valores = 0;
 
+                            double utilidadestobon=0;
+                            double acumuladortobon=0;
 
                             foreach (DataGridViewRow row in dataGridView1.Rows)
                             {
-                                valores = int.Parse(row.Cells[6].Value.ToString());
+                                valores = int.Parse(row.Cells[5].Value.ToString());
                                 acumulador = acumulador + valores;
 
+                                utilidadestobon= double.Parse(row.Cells[6].Value.ToString());
+                                acumuladortobon = acumuladortobon + utilidadestobon;
 
                             }
 
                             Paragraph p1 = new Paragraph();
                             p1.Alignment = Element.ALIGN_LEFT;
-                            p1.Add("Total de Ventas : $ " + acumulador.ToString());
+                            p1.Add(" Total de Ventas : $ " + acumulador.ToString());
+
+
+                            Paragraph p2 = new Paragraph();
+                            p2.Alignment = Element.ALIGN_LEFT;
+                            p2.Add(" Utilidades JCTobon : $ " + acumuladortobon.ToString());
+
 
                             pdfDoc.Add(p1);
-
+                            pdfDoc.Add(p2);
 
                         }
                     }

@@ -308,13 +308,13 @@ namespace JCTobon.Forms
                             foreach (DataGridViewRow row in dataGridView1.Rows)
                             {
 
-                                ventas = int.Parse(row.Cells[6].Value.ToString());
+                                ventas = int.Parse(row.Cells[7].Value.ToString());
                                 acumuladadorVentastotales = acumuladadorVentastotales + ventas;
 
-                                utilidades = double.Parse(row.Cells[7].Value.ToString());
+                                utilidades = double.Parse(row.Cells[8].Value.ToString());
                                 acumuladadorUtilidades = acumuladadorUtilidades + utilidades;
 
-                                jctobon = double.Parse(row.Cells[8].Value.ToString());
+                                jctobon = double.Parse(row.Cells[9].Value.ToString());
                                 acumuladadorUtilidadesJCTobon = acumuladadorUtilidadesJCTobon + jctobon;
 
 
