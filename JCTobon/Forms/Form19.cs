@@ -34,6 +34,8 @@ namespace JCTobon.Forms
             combomarca.DropDownStyle = ComboBoxStyle.DropDownList;
             button4.Visible = false;
 
+            dataGridView1.CellFormatting += dataGridView1_CellFormatting;
+
         }
 
         string id; 
@@ -74,7 +76,7 @@ namespace JCTobon.Forms
 
         public void cargarData()
         {
-            SqlDataAdapter sa = new SqlDataAdapter("Select ID,Tipo,Nombre,Talla,PrecioVenta,CantidadPiezas,Marca,Total,UtilidadEscuela,UtilidadJCTobon,Fecha from Ventas ", con);
+            SqlDataAdapter sa = new SqlDataAdapter("Select ID,Folio,Nombre,Talla,PrecioVenta,CantidadPiezas,Marca,Total,UtilidadEscuela,UtilidadJCTobon,Fecha from Ventas ", con);
             DataTable dt = new DataTable();
             sa.Fill(dt);
             this.dataGridView1.DataSource = dt;
@@ -96,6 +98,9 @@ namespace JCTobon.Forms
             dataGridView1.Columns["UtilidadEscuela"].DefaultCellStyle.Format = "C";
             dataGridView1.Columns["UtilidadJCTobon"].DefaultCellStyle.Format = "C";
             dataGridView1.Columns["PrecioVenta"].DefaultCellStyle.Format = "C";
+
+            dataGridView1.Columns[4].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+
         }
 
         public void cargarNombre()
@@ -451,7 +456,12 @@ namespace JCTobon.Forms
 
         }
 
-
-
+        private void dataGridView1_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
+        {
+            if (e.ColumnIndex == 0 && e.Value is decimal)
+            {
+                e.Value = ((decimal)e.Value).ToString("N2");
+            }
+        }
     }
 }

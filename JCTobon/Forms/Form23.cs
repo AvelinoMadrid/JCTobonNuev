@@ -179,7 +179,7 @@ namespace JCTobon.Forms
 
             if (guardar.ShowDialog() == DialogResult.OK)
             {
-                string contenidoHTML = Properties.Resources.folio.ToString();
+                string contenidoHTML = Properties.Resources.angel.ToString();
 
                 // Obtener la fecha actual
                 DateTime currentDate = DateTime.Now;
@@ -264,28 +264,28 @@ namespace JCTobon.Forms
                         }
                     }
 
-                    int acumulaodr = 0;
-                    int datos = 0;
-                    int valores = 0;
-                    int acumulador = 0;
+                    //int acumulaodr = 0;
+                    //int datos = 0;
+                    //int valores = 0;
+                    //int acumulador = 0;
 
 
-                    foreach (DataGridViewRow row in dataGridView1.Rows)
-                    {
+                    //foreach (DataGridViewRow row in dataGridView1.Rows)
+                    //{
                        
-                        valores = int.Parse(row.Cells[6].Value.ToString());
-                        acumulador = acumulador + valores;
+                    //    valores = int.Parse(row.Cells[6].Value.ToString());
+                    //    acumulador = acumulador + valores;
 
 
-                    }
+                    //}
 
 
-                    Paragraph p1 = new Paragraph();
-                    p1.Alignment = Element.ALIGN_LEFT;
-                    p1.Add("Total de Ventas : $ " + acumulador.ToString());
+                    //Paragraph p1 = new Paragraph();
+                    //p1.Alignment = Element.ALIGN_LEFT;
+                    //p1.Add("Total de Ventas : $ " + acumulador.ToString());
 
 
-                    pdfDoc.Add(p1);
+                    //pdfDoc.Add(p1);
 
                     pdfDoc.Close();
                     stream.Close();
