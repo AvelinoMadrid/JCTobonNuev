@@ -100,7 +100,9 @@ namespace JCTobon.Forms
             dataGridView1.Columns["PrecioVenta"].DefaultCellStyle.Format = "C";
 
             dataGridView1.Columns[4].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
-
+            dataGridView1.Columns[7].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+            dataGridView1.Columns[8].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+            dataGridView1.Columns[9].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
         }
 
         public void cargarNombre()
@@ -283,12 +285,22 @@ namespace JCTobon.Forms
                                 PdfPCell pcell = new PdfPCell(new Phrase(col.HeaderText.Replace("CantidadPiezas", "Cantidad")));
                                 pTable.AddCell(pcell);
                             }
-
-                            foreach (DataGridViewRow row in dataGridView1.Rows)
-                            {
-                                foreach (DataGridViewCell dcell in row.Cells)
+                            BaseFont baseFont = BaseFont.CreateFont(BaseFont.TIMES_ROMAN, BaseFont.CP1252, BaseFont.NOT_EMBEDDED);
+                            iTextSharp.text.Font font = new iTextSharp.text.Font(baseFont, 12, iTextSharp.text.Font.NORMAL);
+                            foreach (DataGridViewRow outerRow in dataGridView1.Rows)
+                            { 
+                                foreach (DataGridViewCell dcell in outerRow.Cells)
                                 {
-                                    pTable.AddCell(dcell.Value.ToString());
+                                    if (dcell.OwningColumn.Name == "Total" || dcell.OwningColumn.Name == "UtilidadEscuela" || dcell.OwningColumn.Name == "UtilidadJCTobon" || dcell.OwningColumn.Name == "PrecioVenta")
+                                    {
+                                        PdfPCell cell = new PdfPCell(new Phrase(string.Format("{0:C}", dcell.Value), font));
+                                        cell.HorizontalAlignment = Element.ALIGN_RIGHT;
+                                        pTable.AddCell(cell);
+                                    }
+                                    else
+                                    {
+                                        pTable.AddCell(dcell.Value.ToString());
+                                    }
                                 }
                             }
 
@@ -345,15 +357,9 @@ namespace JCTobon.Forms
                             pdfDoc.Add(p2);
                             pdfDoc.Add(p3);
 
-
-
-
-
-
-
-
-
                         }
+
+
                     }
 
 
@@ -364,9 +370,6 @@ namespace JCTobon.Forms
                 }
             }
         }
-
-
-
 
 
         private string getCurrentDate()

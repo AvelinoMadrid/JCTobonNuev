@@ -27,6 +27,8 @@ namespace JCTobon.Forms
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
             cargarData();
+
+            dataGridView1.CellFormatting += dataGridView1_CellFormatting;
         }
 
         //SqlConnection con = new SqlConnection("Data Source=LAPTOP-OM95FUOE\\SQLEXPRESS;Initial Catalog=PuntoVentaJCTobon;Integrated Security=True");
@@ -154,7 +156,11 @@ namespace JCTobon.Forms
 
             dataGridView1.Columns["PrecioVenta"].DefaultCellStyle.Format = "C";
             dataGridView1.Columns["Total"].DefaultCellStyle.Format = "C";
-           
+
+            dataGridView1.Columns[4].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            dataGridView1.Columns[5].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+            dataGridView1.Columns[6].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+
         }
 
         public DataGridView getData()
@@ -252,11 +258,22 @@ namespace JCTobon.Forms
                                 pTable.AddCell(pcell);
                             }
 
-                            foreach (DataGridViewRow row in dataGridView1.Rows)
+                            BaseFont baseFont = BaseFont.CreateFont(BaseFont.TIMES_ROMAN, BaseFont.CP1252, BaseFont.NOT_EMBEDDED);
+                            iTextSharp.text.Font font = new iTextSharp.text.Font(baseFont, 12, iTextSharp.text.Font.NORMAL);
+                            foreach (DataGridViewRow outerRow in dataGridView1.Rows)
                             {
-                                foreach (DataGridViewCell dcell in row.Cells)
+                                foreach (DataGridViewCell dcell in outerRow.Cells)
                                 {
-                                    pTable.AddCell(dcell.Value.ToString());
+                                    if (dcell.OwningColumn.Name == "Total"  || dcell.OwningColumn.Name == "PrecioVenta")
+                                    {
+                                        PdfPCell cell = new PdfPCell(new Phrase(string.Format("{0:C}", dcell.Value), font));
+                                        cell.HorizontalAlignment = Element.ALIGN_RIGHT;
+                                        pTable.AddCell(cell);
+                                    }
+                                    else
+                                    {
+                                        pTable.AddCell(dcell.Value.ToString());
+                                    }
                                 }
                             }
 
@@ -312,7 +329,7 @@ namespace JCTobon.Forms
 
         public void cargarData()
         {
-            SqlDataAdapter sa = new SqlDataAdapter("select Folio,Nombre,Talla,CantidadPiezas,PrecioVenta,Marca,Total,Fecha from Ventas ", con);
+            SqlDataAdapter sa = new SqlDataAdapter("select Folio,Nombre,Talla,Marca,CantidadPiezas,PrecioVenta,Total,Fecha from Ventas ", con);
             DataTable dt = new DataTable();
             sa.Fill(dt);
             this.dataGridView1.DataSource = dt;
@@ -395,6 +412,14 @@ namespace JCTobon.Forms
 
             dr.Close();
             con.Close();
+        }
+
+        private void dataGridView1_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
+        {
+            if (e.ColumnIndex == 0 && e.Value is decimal)
+            {
+                e.Value = ((decimal)e.Value).ToString("N2");
+            }
         }
 
     } // fin names pace

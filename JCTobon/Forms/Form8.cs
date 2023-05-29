@@ -31,7 +31,8 @@ namespace JCTobon.Forms
             cargarData();
             cargatipos.DropDownStyle = ComboBoxStyle.DropDownList;
             cargarmarca.DropDownStyle = ComboBoxStyle.DropDownList;
-          
+
+            dataGridView1.CellFormatting += dataGridView1_CellFormatting;
 
         }
 
@@ -161,6 +162,11 @@ namespace JCTobon.Forms
 
 
             }
+
+            if (e.ColumnIndex == 0 && e.Value is decimal)
+            {
+                e.Value = ((decimal)e.Value).ToString("N2");
+            }
         }
         public void cargarMarcas()
         {
@@ -287,7 +293,10 @@ namespace JCTobon.Forms
             dataGridView1.Columns["UtilidadEscuela"].DefaultCellStyle.Format = "C";
             dataGridView1.Columns["UtilidadJCTobon"].DefaultCellStyle.Format = "C";
             dataGridView1.Columns["PrecioVenta"].DefaultCellStyle.Format = "C";
-            
+
+            dataGridView1.Columns[6].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+            dataGridView1.Columns[7].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+            dataGridView1.Columns[8].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
         }
 
         // busqueda por tipo 
@@ -482,6 +491,7 @@ namespace JCTobon.Forms
                                 pTable.AddCell(headerCell);
                             }
 
+
                             foreach (DataGridViewRow row in dataGridView1.Rows)
                             {
                                 // Obtener los valores de las columnas deseadas por su nombre
@@ -658,7 +668,7 @@ namespace JCTobon.Forms
             return folioCounter;
         }
 
-
+        
     }
 
 }

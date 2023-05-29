@@ -30,8 +30,8 @@ namespace JCTobon.Forms
             GeneraCodigo();
             Load += Form111_Load;
             this.Load += Form111_Load;
-           
 
+            dataGridView1.CellFormatting += dataGridView1_CellFormatting;
 
         }
 
@@ -480,20 +480,18 @@ namespace JCTobon.Forms
             button2.Enabled = false;
 
             txtCodigoBarra.Focus();
+
+        }
+
+        private void dataGridView1_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
+        {
+            if (e.ColumnIndex == 0 && e.Value is decimal)
+            {
+                e.Value = ((decimal)e.Value).ToString("N2");
+            }
         }
 
         // COMPARACION 
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }

@@ -33,6 +33,8 @@ namespace JCTobon.Forms
             mostrarConfiguracion();
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
+
+            dataGridView1.CellFormatting += dataGridView1_CellFormatting;
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -97,7 +99,8 @@ namespace JCTobon.Forms
             comboBox1.DataSource = cat.CargarNombres();
             comboBox1.DisplayMember = "Nombre";
 
-        
+
+            dataGridView1.Columns[4].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
         }
 
         public void cargarNombre()
@@ -198,6 +201,11 @@ namespace JCTobon.Forms
                 }
 
 
+            }
+
+            if (e.ColumnIndex == 0 && e.Value is decimal)
+            {
+                e.Value = ((decimal)e.Value).ToString("N2");
             }
         }
 
