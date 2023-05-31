@@ -74,9 +74,9 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(65, 16);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(121, 17);
+            this.label1.Size = new System.Drawing.Size(52, 17);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Ventas Validadas";
+            this.label1.Text = "Ventas";
             // 
             // pictureBox1
             // 
@@ -102,7 +102,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(213, 38);
             this.button1.TabIndex = 2;
-            this.button1.Text = "PDF Ventas Validadas";
+            this.button1.Text = "PDF Ventas ";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 

@@ -68,7 +68,7 @@ namespace JCTobon.Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            abrirPanel(new Form19());
+            abrirPanel(new VentaValidada());
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)

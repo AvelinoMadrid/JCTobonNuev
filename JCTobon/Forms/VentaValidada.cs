@@ -59,7 +59,7 @@ namespace JCTobon.Forms
             guardar.FileName = "Reporte ventas " + ".pdf";
             guardar.DefaultExt = "pdf";
             guardar.Filter = "Archivos PDF (*.pdf)|*.pdf";
-            guardar.FileName = "Reporte ventasValidadas " + ".pdf";
+            guardar.FileName = "Reporte Ventas " + ".pdf";
 
 
             if (guardar.ShowDialog() == DialogResult.OK)
