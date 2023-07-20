@@ -35,8 +35,8 @@ namespace JCTobon.Forms
         string descripcion;
         string opcion;
 
-        //SqlConnection con = new SqlConnection("Data Source=LAPTOP-OM95FUOE\\SQLEXPRESS;Initial Catalog=PuntoVentaJCTobon;Integrated Security=True");
-        SqlConnection con = new SqlConnection("Data Source=sqlpuntoventa.cjl3v0f7izez.us-east-2.rds.amazonaws.com;Initial Catalog=PuntoVenta;User ID=admin;Password=admin007");
+        //SqlConnection con = new SqlConnection("Data Source=DESKTOP-GD5MVN2;Initial Catalog=PuntoVenta;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source=jctobon.cku8hyfumkfn.us-east-1.rds.amazonaws.com;Initial Catalog=PuntoVenta;User ID=admin;Password=admin007");
 
 
         public void cargarData()
@@ -88,7 +88,6 @@ namespace JCTobon.Forms
             double es = obs.getEscuela();
             double ujctobon = obs.getUtilidadTobon();
 
-           
 
             con.Open();
             SqlCommand query = new SqlCommand("Insert into Catalogos (Tipo,Modelo,Marca,Talla,Color,Temporada,PrecioMaquila,PrecioProveedor,UtilidadEscuela,PrecioEscuela,Status,Descripcion,UtilidadJCTobon) values (@Tipo,@Modelo,@Marca,@Talla,@Color,@Temporada,@PrecioMaquila,@PrecioProveedor,@UtilidadEscuela,@PrecioEscuela,@Status,@Descripcion,@UtilidadJCTobon)", con);

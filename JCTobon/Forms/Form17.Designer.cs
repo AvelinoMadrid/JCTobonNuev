@@ -161,6 +161,7 @@
             this.cargarimagen.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.cargarimagen.TabIndex = 2;
             this.cargarimagen.TabStop = false;
+            this.cargarimagen.Click += new System.EventHandler(this.cargarimagen_Click);
             this.cargarimagen.Validating += new System.ComponentModel.CancelEventHandler(this.cargarimagen_Validating);
             // 
             // combox

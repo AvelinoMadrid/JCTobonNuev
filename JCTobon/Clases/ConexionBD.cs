@@ -14,8 +14,8 @@ namespace JCTobon.Clases
         SqlConnection conex = new SqlConnection();
 
 
-        //string cadenaConexion = "Data Source=LAPTOP-OM95FUOE\\SQLEXPRESS;Initial Catalog=PuntoVenta;Integrated Security=True";
-        string cadenaConexion = "Data Source=sqlpuntoventa.cjl3v0f7izez.us-east-2.rds.amazonaws.com;Initial Catalog=PuntoVenta;User ID=admin;Password=admin007";
+        //string cadenaConexion = "Data Source=DESKTOP-GD5MVN2;Initial Catalog=PuntoVenta;Integrated Security=True";
+        string cadenaConexion = "Data Source=jctobon.cku8hyfumkfn.us-east-1.rds.amazonaws.com;Initial Catalog=PuntoVenta;User ID=admin;Password=admin007";
 
         public SqlConnection establecerConexion()
         {

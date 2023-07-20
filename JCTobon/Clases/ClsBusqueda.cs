@@ -6,6 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using Microsoft.VisualBasic.ApplicationServices;
+using System.Windows.Markup;
 
 namespace JCTobon.Clases
 {
@@ -17,7 +19,7 @@ namespace JCTobon.Clases
         {
             ConexionBD objecto = new ConexionBD();
 
-            string cadenaConexion = "Data Source=sqlpuntoventa.cjl3v0f7izez.us-east-2.rds.amazonaws.com;Initial Catalog=PuntoVenta;User ID=admin;Password=admin007";
+            string cadenaConexion = "Data Source = jctobon.cku8hyfumkfn.us - east - 1.rds.amazonaws.com; Initial Catalog = PuntoVenta; User ID = admin; Password = admin007";
 
             SqlConnection conex = objecto.establecerConexion();
 

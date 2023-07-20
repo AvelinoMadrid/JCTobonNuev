@@ -238,6 +238,7 @@
             this.inicio.Name = "inicio";
             this.inicio.Size = new System.Drawing.Size(132, 22);
             this.inicio.TabIndex = 7;
+            this.inicio.ValueChanged += new System.EventHandler(this.inicio_ValueChanged);
             // 
             // label5
             // 

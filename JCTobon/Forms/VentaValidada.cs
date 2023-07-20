@@ -28,7 +28,10 @@ namespace JCTobon.Forms
             dataGridView1.CellFormatting += dataGridView1_CellFormatting;
         }
 
-        SqlConnection con = new SqlConnection("Data Source=sqlpuntoventa.cjl3v0f7izez.us-east-2.rds.amazonaws.com;Initial Catalog=PuntoVenta;User ID=admin;Password=admin007");
+        string ObtenerFolio;
+
+        //SqlConnection con = new SqlConnection("Data Source=DESKTOP-GD5MVN2;Initial Catalog=PuntoVenta;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source=jctobon.cku8hyfumkfn.us-east-1.rds.amazonaws.com;Initial Catalog=PuntoVenta;User ID=admin;Password=admin007");
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
@@ -42,7 +45,7 @@ namespace JCTobon.Forms
 
         public void cargarData()
         {
-            SqlDataAdapter sa = new SqlDataAdapter("Select Folio,Nombre,Talla,CantidadPiezas,PrecioVenta,Total,UtilidadJCTobon,Fecha from ventasValidadas ", con);
+            SqlDataAdapter sa = new SqlDataAdapter("Select ID,Folio,Nombre,Talla,CantidadPiezas,PrecioVenta,Total,UtilidadJCTobon,Fecha from ventasValidadas ", con);
             DataTable dt = new DataTable();
             sa.Fill(dt);
             this.dataGridView1.DataSource = dt;
@@ -167,7 +170,7 @@ namespace JCTobon.Forms
                                 valores = int.Parse(row.Cells[5].Value.ToString());
                                 acumulador = acumulador + valores;
 
-                                utilidadestobon= double.Parse(row.Cells[6].Value.ToString());
+                                utilidadestobon= double.Parse(row.Cells[7].Value.ToString());
                                 acumuladortobon = acumuladortobon + utilidadestobon;
 
                             }
@@ -230,6 +233,89 @@ namespace JCTobon.Forms
             dataGridView1.Columns[6].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
             dataGridView1.Columns[3].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            SqlDataAdapter sa = new SqlDataAdapter("buscarFechaVentaValidada", con);
+            sa.SelectCommand.CommandType = CommandType.StoredProcedure;
+            sa.SelectCommand.Parameters.Add("@fechainicio", SqlDbType.DateTime).Value = Inicio.Text;
+            sa.SelectCommand.Parameters.Add("@fechafin", SqlDbType.DateTime).Value = Fin.Text;
+            DataTable dt = new DataTable();
+            sa.Fill(dt);
+            this.dataGridView1.DataSource = dt;
+        }
+
+
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                DialogResult result = MessageBox.Show("¿Estás seguro de que deseas eliminar este registro?", "Confirmar eliminación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+                if (result == DialogResult.Yes)
+                {
+                    int rowIndex = dataGridView1.SelectedRows[0].Index;
+                    int id = Convert.ToInt32(dataGridView1.Rows[rowIndex].Cells["ID"].Value);
+
+                    try
+                    {
+                        con.Open();
+                        SqlCommand cmd = new SqlCommand("DELETE FROM ventasValidadas WHERE ID = @id", con);
+                        cmd.Parameters.AddWithValue("@id", id);
+                        cmd.ExecuteNonQuery();
+
+                        // Actualizar la vista de datos
+                        cargarData();
+
+                        MessageBox.Show("Registro eliminado correctamente.", "Eliminación exitosa", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Error al eliminar el registro: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    finally
+                    {
+                        con.Close();
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("Por favor, selecciona un registro para eliminar.", "Selección requerida", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void VentaValidada_Shown(object sender, EventArgs e)
+        {
+            Form1 abrir = new Form1();
+            string usuario = abrir.getUser();
+            string rol;
+
+            con.Open();
+            SqlCommand query = new SqlCommand("Select Rol from Usuarios where Nombre = '" + usuario + "'", con);
+            SqlDataReader lectura = query.ExecuteReader();
+
+            if (lectura.HasRows)
+
+            {
+                lectura.Read();
+
+                rol = lectura["Rol"].ToString();
+
+                if (rol.Equals("admin"))
+                {
+                    btnEliminar.Visible = true;
+                }
+
+                else
+                {
+                    btnEliminar.Visible = false;
+                }
+            }
+
+            con.Close();
         }
     }
 }

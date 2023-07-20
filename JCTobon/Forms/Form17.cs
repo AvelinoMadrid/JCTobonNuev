@@ -22,8 +22,8 @@ namespace JCTobon.Forms
             InitializeComponent();
         }
 
-        //SqlConnection con = new SqlConnection("Data Source=LAPTOP-OM95FUOE\\SQLEXPRESS;Initial Catalog=PuntoVentaJCTobon;Integrated Security=True");
-        SqlConnection con = new SqlConnection("Data Source=sqlpuntoventa.cjl3v0f7izez.us-east-2.rds.amazonaws.com;Initial Catalog=PuntoVenta;User ID=admin;Password=admin007");
+        //SqlConnection con = new SqlConnection("Data Source=DESKTOP-GD5MVN2;Initial Catalog=PuntoVenta;Integrated Security=True");
+        SqlConnection con = new SqlConnection("Data Source=jctobon.cku8hyfumkfn.us-east-1.rds.amazonaws.com;Initial Catalog=PuntoVenta;User ID=admin;Password=admin007");
         public delegate void updateDelegate(object sender, UpdateEventArgs args);
         public event updateDelegate UpdateEventHandler;
 
@@ -97,9 +97,9 @@ namespace JCTobon.Forms
             {
                 registro.Read();
 
-                MemoryStream ms = new MemoryStream((byte[])registro["Img"]);
-                Bitmap bm = new Bitmap(ms);
-                cargarimagen.Image = bm;
+                //MemoryStream ms = new MemoryStream((byte[])registro["Img"]);
+                //Bitmap bm = new Bitmap(ms);
+                //cargarimagen.Image = bm;
 
                 txtid.Text = registro["ID"].ToString();
                 combox.Text = registro["Tipo"].ToString();
@@ -263,6 +263,11 @@ namespace JCTobon.Forms
         private void txtmarca_Validating(object sender, CancelEventArgs e)
         {
             
+        }
+
+        private void cargarimagen_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

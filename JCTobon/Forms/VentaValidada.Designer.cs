@@ -37,6 +37,13 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.sqlCommand1 = new Microsoft.Data.SqlClient.SqlCommand();
+            this.button2 = new System.Windows.Forms.Button();
+            this.Fin = new System.Windows.Forms.DateTimePicker();
+            this.Inicio = new System.Windows.Forms.DateTimePicker();
+            this.btnEliminar = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -98,7 +105,7 @@
             this.button1.ForeColor = System.Drawing.Color.Black;
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(299, 378);
+            this.button1.Location = new System.Drawing.Point(494, 412);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(213, 38);
             this.button1.TabIndex = 2;
@@ -124,7 +131,7 @@
             this.dataGridView1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.dataGridView1.EnableHeadersVisualStyles = false;
             this.dataGridView1.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
-            this.dataGridView1.Location = new System.Drawing.Point(38, 63);
+            this.dataGridView1.Location = new System.Drawing.Point(38, 97);
             this.dataGridView1.Name = "dataGridView1";
             dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
@@ -136,12 +143,87 @@
             this.dataGridView1.Size = new System.Drawing.Size(740, 299);
             this.dataGridView1.TabIndex = 3;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(250, 65);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(73, 15);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "Fecha Inicio:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(505, 65);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(60, 15);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "Fecha Fin:";
+            // 
+            // sqlCommand1
+            // 
+            this.sqlCommand1.CommandTimeout = 30;
+            this.sqlCommand1.EnableOptimizedParameterBinding = false;
+            // 
+            // button2
+            // 
+            this.button2.FlatAppearance.BorderSize = 0;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
+            this.button2.Location = new System.Drawing.Point(735, 59);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(43, 26);
+            this.button2.TabIndex = 12;
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // Fin
+            // 
+            this.Fin.Location = new System.Drawing.Point(571, 62);
+            this.Fin.Name = "Fin";
+            this.Fin.Size = new System.Drawing.Size(159, 23);
+            this.Fin.TabIndex = 13;
+            // 
+            // Inicio
+            // 
+            this.Inicio.Location = new System.Drawing.Point(326, 62);
+            this.Inicio.Name = "Inicio";
+            this.Inicio.Size = new System.Drawing.Size(154, 23);
+            this.Inicio.TabIndex = 14;
+            // 
+            // btnEliminar
+            // 
+            this.btnEliminar.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnEliminar.BackColor = System.Drawing.Color.White;
+            this.btnEliminar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEliminar.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(87)))), ((int)(((byte)(87)))), ((int)(((byte)(86)))));
+            this.btnEliminar.FlatAppearance.BorderSize = 2;
+            this.btnEliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEliminar.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btnEliminar.ForeColor = System.Drawing.Color.Black;
+            this.btnEliminar.Image = ((System.Drawing.Image)(resources.GetObject("btnEliminar.Image")));
+            this.btnEliminar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnEliminar.Location = new System.Drawing.Point(195, 412);
+            this.btnEliminar.Name = "btnEliminar";
+            this.btnEliminar.Size = new System.Drawing.Size(191, 41);
+            this.btnEliminar.TabIndex = 15;
+            this.btnEliminar.Text = "Eliminar";
+            this.btnEliminar.UseVisualStyleBackColor = false;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
+            // 
             // VentaValidada
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
-            this.ClientSize = new System.Drawing.Size(806, 450);
+            this.ClientSize = new System.Drawing.Size(806, 473);
+            this.Controls.Add(this.btnEliminar);
+            this.Controls.Add(this.Inicio);
+            this.Controls.Add(this.Fin);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1);
@@ -151,12 +233,14 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "VentaValidada";
             this.Load += new System.EventHandler(this.VentaValidada_Load);
+            this.Shown += new System.EventHandler(this.VentaValidada_Shown);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -168,5 +252,12 @@
         private PictureBox pictureBox2;
         private Button button1;
         private DataGridView dataGridView1;
+        private Label label2;
+        private Label label3;
+        private Microsoft.Data.SqlClient.SqlCommand sqlCommand1;
+        private Button button2;
+        private DateTimePicker Fin;
+        private DateTimePicker Inicio;
+        private Button btnEliminar;
     }
 }
